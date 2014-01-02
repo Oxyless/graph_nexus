@@ -1,4 +1,4 @@
 graph_nexus
 ===========
 
-http://oxyless.fr/ (demo)
+An graph generator / solver (demo: http://oxyless.fr/)
